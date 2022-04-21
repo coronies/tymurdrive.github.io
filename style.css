@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(41, 41, 41);
+  margin: 0%;
+  overflow: hidden;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+.font-style {
+  font-family: "Montserrat", sans-serif;
+  background-color: linear-gradient(
+    90deg,
+    rgba(0, 109, 207, 1) 2%,
+    rgba(118, 50, 163, 1) 52%,
+    rgba(189, 0, 160, 1) 83%,
+    rgba(193, 216, 251, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
