@@ -1,2 +1,3 @@
 # tymurdrive.github.io
-fdfdf
+Example of my old web-development projects 
+
